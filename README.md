@@ -1,2 +1,4 @@
-# CS_STUDY
-Computer Science Study
+# CS Study
+### 💡이산수학
+---
+- 이산수학 기초
