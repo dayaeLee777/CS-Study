@@ -13,7 +13,7 @@
 - [역 이 대우](이산수학/02_역_이_대우.md)
 
 
-### 💡[Web](WEB/readme.md)
+### 💡Web
 ---
 - [REST API](web/REST_API.md)
 - [MVC Pattern](web/MVC_pattern.md)
