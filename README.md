@@ -16,21 +16,15 @@
 
 ### 💡Java
 ---
-- [개념 특징 변수](Java/개념_특징_변수.md)
-- [추상클래스 인터페이스](Java/추상클래스_인터페이스.md)
-- [Optional](Java/Optional.md)
+- [개념, 특징, 변수](Java/개념_특징_변수.md)
+- [추상클래스와 인터페이스](Java/추상클래스_인터페이스.md)
 - [JVM 기초](Java/JVM_기초.md)
 <br/>
 
 ### 💡Web
 ---
-- [REST API](web/REST_API.md)
-- [MVC Pattern](web/MVC_pattern.md)
-- [Spring Data JPA](web/Spring_Data_JPA.md)
-- [JPA 기본](web/JPA_기본.md)
-- [JPA 심화](web/JPA_심화.md)
-- [JWT](web/JWT.md)
-- [EC2](web/EC2.md)
+- [REST API](Web/REST_API.md)
+- [MVC Pattern](Web/MVC_pattern.md)
 <br/>
 
 ### 💡네트워크
@@ -44,3 +38,13 @@
 ### 💡Database
 ---
 - [인덱스](Database/인덱스.md)
+<br/>
+
+### 💡TIL
+---
+- [Spring Data JPA](TIL/Spring_Data_JPA.md)
+- [JPA 기본](TIL/JPA_기본.md)
+- [JPA 심화](TIL/JPA_심화.md)
+- [Optional](TIL/Optional.md)
+- [JWT](TIL/JWT.md)
+- [EC2](TIL/EC2.md)
