@@ -49,4 +49,3 @@
 - [JPA 심화](TIL/JPA_심화.md)
 - [Optional](TIL/Optional.md)
 - [JWT](TIL/JWT.md)
-- [EC2](TIL/EC2.md)
