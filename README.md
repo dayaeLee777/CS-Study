@@ -40,6 +40,8 @@
 ### 💡Database
 ---
 - [인덱스](Database/인덱스.md)
+- [NoSQL](Database/NoSQL.md)
+- [MongoDB](Database/MongoDB.md)
 <br/>
 
 ### 💡TIL
